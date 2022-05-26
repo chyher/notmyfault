@@ -1,4 +1,4 @@
-windows下git使用方法
+## windows下git使用方法
 
 - 在git官网上安装git bash工具
 
@@ -22,3 +22,9 @@ windows下git使用方法
 - 提交代码
 
   `git push`
+  
+  ## linux下git使用方法
+  - 实际与windows相同
+  - 也可在终端安装git工具包后直接使用
+    - 如redhat系使用 `yum install git`
+    - 如debian系使用 `apt install git` 或 `dpkg -i git`
