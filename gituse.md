@@ -23,8 +23,8 @@
 
   `git push`
   
-  ## linux下git使用方法
-  - 实际与windows相同
-  - 也可在终端安装git工具包后直接使用
-    - 如redhat系使用 `yum install git`
-    - 如debian系使用 `apt install git` 或 `dpkg -i git`
+## linux下git使用方法
+- 实际与windows相同
+- 也可在终端安装git工具包后直接使用
+  - 如redhat系使用 `yum install git`
+  - 如debian系使用 `apt install git` 或 `dpkg -i git`
