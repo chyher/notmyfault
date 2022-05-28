@@ -32,3 +32,7 @@
 
 ## 多git仓库同步push
 - 在.git/config中的remote标签添加url（新增的git远程仓库地址）
+
+## Git使用教程
+
+[狂神狂神聊Git](https://mp.weixin.qq.com/s/Bf7uVhGiu47uOELjmC5uXQ)：https://mp.weixin.qq.com/s/Bf7uVhGiu47uOELjmC5uXQ
