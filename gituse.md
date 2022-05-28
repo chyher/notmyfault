@@ -28,3 +28,7 @@
 - 也可在终端安装git工具包后直接使用
   - 如redhat系使用 `yum install git`
   - 如debian系使用 `apt install git` 或 `dpkg -i git`
+
+
+## 多git仓库同步push
+- 在.git/config中的remote标签添加url（新增的git远程仓库地址）
